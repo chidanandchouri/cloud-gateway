@@ -11,7 +11,7 @@ public class CloudGatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CloudGatewayApplication.class, args);
 		
-		System.out.println("API GateWay Started...!!!");
+		System.out.println("Cloud API GateWay Started...!!!");
 	}
 
 }
